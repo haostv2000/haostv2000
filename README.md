@@ -35,5 +35,4 @@
 ![GitHub followers](https://img.shields.io/github/followers/haostv2000?label=Followers&style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/yourusername?style=social)
 
-### ⚡ Fun Fact:  
-![animated](https://media.giphy.com/media/3o7TKCgplB3VB2Y9Yg/giphy.gif)
+
